@@ -1,0 +1,9 @@
+// lock-overlay/config.json
+{
+  "password": "letmein",
+  "duration_seconds": 3600,
+  "image": "assets/background.png",
+  "title": "System Locked",
+  "subtitle": "Enter password to unlock.",
+  "escape_combo": "<Control-Alt-q>"
+}
